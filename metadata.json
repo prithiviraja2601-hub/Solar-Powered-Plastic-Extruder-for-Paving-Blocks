@@ -1,0 +1,6 @@
+{
+  "name": "Solar-Powered Plastic Extruder for Paving Blocks",
+  "description": "Management, collection monitoring, paving block inventory, and sales platform for solar-powered plastic recycling into paving blocks across Tamil Nadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
